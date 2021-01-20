@@ -1,2 +1,1 @@
-# dccontrol
-control system for dcserver
+Node based control system for dcserver - cli, eventually gui
